@@ -36,7 +36,7 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" /><img width="905" height="449" alt="image" src="https://github.com/user-attachments/assets/ba62d610-04e5-463a-8a37-9a830f1108cb" />
+<img width="905" height="449" alt="image" src="https://github.com/user-attachments/assets/ba62d610-04e5-463a-8a37-9a830f1108cb" />
 
 
 ## MODEL GRAPH
